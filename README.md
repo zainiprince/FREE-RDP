@@ -5,7 +5,7 @@ If link dies you can use https://t.me/DynastyAIO for the new invite.
 We have over 140+ Gift Card Generators & Configs and counting! Also when/if if this version gets patched I will post the new method in the group. 
 
 Send me a DM for more info. 
-Telegram: https://t.me/DynastyOTP 
+Telegram: https://t.me/DynastyOTP - Telegram Chat: https://t.me/DynastyAIO
 Discord: DynastyAIO#8097
 Patched: https://patched.to/User/dynasty
 
