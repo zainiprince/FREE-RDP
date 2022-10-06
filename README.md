@@ -1,9 +1,10 @@
 # DynastyRDP
 
-This free RDP by Azure is brought to you by DynastyAIO! We have over 140+ Gift Card Generators & Configs and counting! Boost your shop inventory by the boat loads or save huge at many restaurants and stores using our gift card and account configs!
+This free RDP by Azure is brought to you by DynastyAIO! We have over 140+ Gift Card Generators & Configs and counting! Boost your shop inventory by the boat loads or save huge at many restaurants and stores using our gift card and account configs! Telegram Chat: https://t.me/DynastyAIO
+
 
 Send me a DM for more info. 
-Telegram: https://t.me/DynastyOTP - Telegram Chat: https://t.me/DynastyAIO
+Telegram: https://t.me/DynastyOTP 
 Discord: DynastyAIO#8097
 Patched: https://patched.to/User/dynasty
 
