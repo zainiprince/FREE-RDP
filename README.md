@@ -2,12 +2,17 @@
 
 This free RDP by Azure is brought to you by DynastyAIO the first and only exclusive config cloud that comes with a complimentary 2FA OTP BOT with caller ID spoofing + Spam Tools + Email/Sms Bombers and MORE!
 If link dies you can use https://t.me/DynastyAIO for the new invite. 
-We have over 140+ Gift Card Generators & Configs and counting! Also when/if if this version gets patched I will post the new method in the group. Now, lets get to the free rdp stuff.
+We have over 140+ Gift Card Generators & Configs and counting! Also when/if if this version gets patched I will post the new method in the group. 
+
+Send me a DM for more info. 
+Telegram: https://t.me/DynastyOTP 
+Discord: DynastyAIO#8097
+Patched: https://patched.to/User/dynasty
 
 
 ![image](https://i.imgur.com/pwLIpXk.gif)
 
-
+Now lets get to the free RDP stuff!
 Requirements:
 
 Github Account
